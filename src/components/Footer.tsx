@@ -17,9 +17,6 @@ export default function Footer() {
             </Link>
           </div>
           <div className="flex flex-wrap gap-5 text-sm text-muted-foreground">
-            <Link href="/about" className="hover:underline">
-              About
-            </Link>
             <Link href="/tos" className="hover:underline">
               Terms of Service
             </Link>
