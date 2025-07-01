@@ -57,6 +57,10 @@ export default function Navbar() {
       href: "/u", 
       label: "Importers",
     },
+    { 
+      href: "/needs", 
+      label: "Needs",
+    },
   ];
 
   const renderNavLinks = (links: Array<{href: string, label: string}>, onClick?: () => void) => (
