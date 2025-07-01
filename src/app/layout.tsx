@@ -33,7 +33,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <PlausibleProvider domain="bagbusiness.net" customDomain="https://plausible.codewithadu.de" />
+        <PlausibleProvider domain="cabasbusiness.com" customDomain="https://plausible.codewithadu.de" />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
