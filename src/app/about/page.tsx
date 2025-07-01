@@ -9,15 +9,15 @@ export default function PP() {
 
             <section>
                 <h2 className="text-2xl font-semibold mb-4 flex items-center justify-center">
-                    What is BagBusiness?
+                    What is CabaBusiness?
                 </h2>
                 <p>
-                    BagBusiness is a platform that let you find products from Bag Businessmen.
+                    CabasBusiness is a platform that let you find products from Cabas entrepreuneurs.
                 </p>
             </section>
 
             <p className="mt-6">
-                Thank you for using BagBusiness!
+                Thank you for using CabasBusiness!
             </p>
         </main>
     )
