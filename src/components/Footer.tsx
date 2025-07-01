@@ -9,7 +9,7 @@ export default function Footer() {
               Find your next cabas businessman and more
           </div>
           <div className="flex flex-wrap gap-5 text-sm text-muted-foreground">
-            <Link href="https://www.facebook.com/profile.php?id=100066235554730" target="_blank" className="hover:underline">
+            <Link href="https://www.facebook.com/CodeurGrosArgent" target="_blank" className="hover:underline">
               Facebook
             </Link>
             <Link href="https://github.com/rapidosaas" target="_blank" className="hover:underline">
