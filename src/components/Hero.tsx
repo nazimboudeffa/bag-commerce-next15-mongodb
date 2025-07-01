@@ -20,7 +20,7 @@ function Hero () {
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <Link
-                href="/bags"
+                href="/cabas"
                 className={`${buttonVariants({ variant: "default" })}`}
               >
                 Find a Cabas
