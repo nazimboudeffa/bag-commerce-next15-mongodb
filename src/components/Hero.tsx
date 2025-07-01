@@ -23,7 +23,7 @@ function Hero () {
                 href="/bags"
                 className={`${buttonVariants({ variant: "default" })}`}
               >
-                Find Bags
+                Find a Cabas
               </Link>
             </div>
           </div>

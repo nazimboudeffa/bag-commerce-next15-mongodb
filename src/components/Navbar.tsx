@@ -54,8 +54,8 @@ export default function Navbar() {
 
   const AuthenticatedNavLinks = [
     { 
-      href: "/bags", 
-      label: "Bags",
+      href: "/cabas", 
+      label: "Cabas",
     },
   ];
 
