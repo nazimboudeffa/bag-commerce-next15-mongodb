@@ -16,7 +16,7 @@ function Hero () {
               And More
             </h1>
             <p className="mt-8 text-pretty text-lg font-medium text-gray-700 sm:text-xl/8">
-                CabasBusiness is a platform designed to connect cabas-entrepreuneurs with customers searching for particular products.
+                CabasBusiness is a platform designed to connect micro-importers with customers searching for particular products.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <Link
