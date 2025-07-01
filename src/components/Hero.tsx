@@ -11,19 +11,19 @@ function Hero () {
               Find Your Next 
               {' '}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-300 to-blue-600">
-                Bag Businessman
+                Cabas Businessman
               </span>{' '}
               And More
             </h1>
             <p className="mt-8 text-pretty text-lg font-medium text-gray-700 sm:text-xl/8">
-                BagBusiness is a platform designed to connect entrepreuneurs with people searching for particular products.
+                CabasBusiness is a platform designed to connect entrepreuneurs with people searching for particular products.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <Link
-                href="/bags"
+                href="/cabas"
                 className={`${buttonVariants({ variant: "default" })}`}
               >
-                Find Bags
+                Find Cabas
               </Link>
             </div>
           </div>
